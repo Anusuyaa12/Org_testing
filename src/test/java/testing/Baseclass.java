@@ -22,6 +22,16 @@ private void chennai() {
 
 }
 
+private void school() {
+System.out.println("school");
+}
+private void clg() {
+
+	System.out.println("clg");
+}
+
+
+
 	}
 
 
