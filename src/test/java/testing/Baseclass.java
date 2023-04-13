@@ -14,6 +14,18 @@ private void m3() {
 System.out.println("m3");
 }
 
-	}
+private void school() {
+System.out.println("school");
+}
+private void clg() {
+
+	System.out.println("clg");
+}
+
+
+
+
+
+}
 
 
