@@ -14,6 +14,14 @@ private void m3() {
 System.out.println("m3");
 }
 
+private void cbe() {
+	System.out.println("coimbatore");
+}
+private void chennai() {
+	System.out.println("chennai");
+
+}
+
 private void school() {
 System.out.println("school");
 }
@@ -24,8 +32,6 @@ private void clg() {
 
 
 
-
-
-}
+	}
 
 
